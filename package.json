@@ -1,0 +1,22 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "My codewars work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thovo/codewars.git"
+  },
+  "keywords": [
+    "codewars"
+  ],
+  "author": "Tho VO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thovo/codewars/issues"
+  },
+  "homepage": "https://github.com/thovo/codewars#readme"
+}
